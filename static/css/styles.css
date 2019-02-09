@@ -1,0 +1,57 @@
+body{
+	font:15px/1.5 Arial, Helvetica,sans-serif;
+	padding: 0px;
+	background-color:#ffffff;
+	
+}
+
+.container{
+	width:100%;
+	margin: auto;
+	overflow: hidden;
+}
+
+/*header{
+	background: crimson;
+	border-bottom: crimson 3px solid;
+	height:120px;
+	width:100%;
+	padding-top:30px;
+
+}*/
+
+/*.main-header{
+			text-align:center;
+			background-color: crimson;
+			height:100px;
+			width:100%;
+			margin:0px;
+		}*/
+#brandname{
+	float:left;
+	font-size:30px;
+	color: crimson;
+	margin: 10px;
+}
+
+header h2{
+	text-align:center;
+	color: crimson;
+
+}
+
+
+
+.btn-info {background-color: goldenrod;
+	height:40px;
+	width:100px;} /* Blue */
+.btn-info:hover {background: goldenrod;}
+
+
+.resultss{
+	border-radius: 15px 50px;
+    background: crimson;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;
+}
